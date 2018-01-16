@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GetWebInfo</string>
+    <!--UIUtils-->
+    <string name="tip">提示</string>
+    <string name="sure">确定</string>
+
+</resources>

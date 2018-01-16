@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="bg_e79056">#e79056</color>
+    <color name="white">#ffffff</color>
+    <color name="bg_8ce79056">#8ce79056</color>
+
+    <color name="view_line">#d6d6d6</color>
+    <color name="bg_eeeeee">#eeeeee</color>
+    <color name="bg_f9">#F9F9F9</color>
+    <color name="case_text_tital_name">#262626</color>
+</resources>
